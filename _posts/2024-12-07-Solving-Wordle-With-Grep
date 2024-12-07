@@ -1,6 +1,6 @@
 ---
 layout: post
-share: false
+share: true
 title: Solving Wordle With Grep
 date: 2024-12-07 00:00:00 -0400
 filename: _posts/2024-12-07-Solving-Wordle-With-Grep
