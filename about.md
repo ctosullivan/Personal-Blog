@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to **Code Blocks**, a personal blog where I explore the world of software development, coding practices, and technology. Here, I break down complex topics into manageable, easy-to-understand "blocks" of knowledge—whether it's a new programming language, a coding technique, or a lesson learned from a project.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+As a developer, I’m constantly learning and evolving, and this blog is my way of sharing that journey with others. Whether you're just starting out or you're an experienced coder, my goal is to provide practical insights, tutorials, and thoughtful reflections on the challenges and rewards of life in tech. Join me as I tackle everything from code optimizations to the latest tech trends, all while growing and building in the ever-changing world of development.
